@@ -4,7 +4,7 @@
 ---
 
 <h1 id="ainanda---ai-based-sentiment-analysis-to-classify-text-based-on-its-positivity-level">AInanda - AI based sentiment analysis to classify text based on its positivity level</h1>
-<p><img src="https://s20.directupload.net/images/210331/6dipx3t7.jpg" alt="enter image description here"></p>
+<p><img src="https://s18.directupload.net/images/210418/b3ns2zgo.png" alt="enter image description here"></p>
 <p><strong>Problem Statement:</strong><br>
 In times of COVID-19, increasing focus on digital communication and negativity is surrounding us. Negative news can be a rabbit hole, people get lost in bad thoughts and loose emotional intelligence in virtual communication. With AInanda we want to reverse and counteract this trend. Before sending text, one can check the positivity of written communication with the AI based sentiment analysis.</p>
 <h2 id="table-of-contents">Table of Contents</h2>

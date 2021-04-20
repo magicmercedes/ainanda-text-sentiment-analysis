@@ -8,7 +8,7 @@
 <p><strong>Problem Statement:</strong><br>
 In times of COVID-19, increasing focus on digital communication and negativity is surrounding us. Negative news can be a rabbit hole, people get lost in bad thoughts and loose emotional intelligence in virtual communication. With AInanda we want to reverse and counteract this trend. Before sending text, one can check the positivity of written communication with the AI based sentiment analysis.</p>
 <blockquote>
-<p><strong>Team Members;</strong> Kristina Klein, Melih Yozghur, Inês Santos, Mert Özcan</p>
+<p><strong>Team Members;</strong> Kristina Klein, Melih Yozgyur, Inês Santos, Mert Özcan</p>
 </blockquote>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ol>
